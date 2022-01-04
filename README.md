@@ -4,7 +4,7 @@
 code :https://bitbucket.org/Josef-Bauer/clv_pred/src/master/
 
 #### 實作步驟
-##### 1. 先把R轉換成python
+##### 1. 先把R轉換成python(需於1月底全部完成)
 - clvLoadLibraries.r -->不用轉
 - clvParamConfig.r -->不用轉
 - clvInitData.r -->已完成
