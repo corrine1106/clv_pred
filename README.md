@@ -12,7 +12,7 @@ code :https://bitbucket.org/Josef-Bauer/clv_pred/src/master/
 - clvReadGenTSDT.r -->ing
 - clvSkipGramTrain.r -->尚未轉換
 - clvGenTrainArrays.r -->尚未轉換
-- clvEncDecSeqModelTrain.r -->尚未轉換
+- clvEncDecSeqModelTrain.r -->
 - clvGBMModelTrain.r -->尚未轉換
 ##### 2. 換成我們公司的資料集
 ##### 3. 在原本的程式碼上做修改
